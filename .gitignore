@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+**/.DS_Store
+
+*/media/
+*/tutoring_platform/tutoring/migrations/
+*/tutoring_platform/user/migrations/
 
 # C extensions
 *.so
@@ -127,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
