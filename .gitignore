@@ -5,8 +5,8 @@ __pycache__/
 **/.DS_Store
 
 */media/
-*/tutoring_platform/tutoring/migrations/
-*/tutoring_platform/user/migrations/
+*/tutoring/migrations/*
+*/user/migrations/*
 
 # C extensions
 *.so
